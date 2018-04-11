@@ -1,5 +1,5 @@
 {
-  "name": "replace-bundle-webpack-plugin",
+  "name": "replace-bundle-webpack-plugin-edited",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kimhou/replace-bundle-webpack-plugin.git"
+    "url": "https://github.com/panzerstadt/replace-bundle-webpack-plugin.git"
   },
-  "homepage": "https://github.com/kimhou/replace-bundle-webpack-plugin",
+  "homepage": "https://github.com/panzerstadt/replace-bundle-webpack-plugin",
   "keywords": [
     "webpack",
     "replace"
   ],
   "author": {
-    "name": "kimhou",
-    "email": "honkang@163.com"
+    "name": "panzerstadt",
+    "email": "tliqundev@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/kimhou/replace-bundle-webpack-plugin/issues"
+    "url": "https://github.com/panzerstadt/replace-bundle-webpack-plugin/issues"
   },
   "license": "MIT",
   "dependencies": {
